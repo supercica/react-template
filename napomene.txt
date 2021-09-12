@@ -1,0 +1,2 @@
+React TypeScript Webpack Setup - video 1
+ - koraci 1-11 detaljno opisani
